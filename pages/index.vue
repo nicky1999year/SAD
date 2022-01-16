@@ -28,7 +28,7 @@
 export default {
   head() {
     return {
-      title: "NuxtJs UI kit | Free UI kit built with Vuetify",
+      title: "Create Restaurant Websites Within 30 Minutes | Solutech",
       meta: [
         {
           hid: "description",

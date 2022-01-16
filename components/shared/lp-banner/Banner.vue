@@ -8,10 +8,10 @@
         <v-col cols="12" md="7" lg="6" class="d-flex align-center">
           <div class="text-center text-md-left">
             <h1 class="banner-title font-weight-bold white--text">
-              Build stunning websites with NuxtJs UI Kit
+              Create A Professional Website In 30 Minutes
             </h1>
             <h4 class="banner-subtitle white--text font-weight-regular">
-              Free Vuetify UI Kit with Lots of Ready to Use Sections
+              It’s instant, fully guided and easy 
             </h4>
             <div class="mt-16 pt-2">
               <v-btn
@@ -23,7 +23,7 @@
                 href="https://www.wrappixel.com/templates/nextkit-nuxtjs-free-uikit/"
                 elevation="0"
               >
-                Download Free
+                Get Started
               </v-btn>
               <v-btn
                 nuxt
@@ -34,7 +34,7 @@
                 color="white"
                 elevation="0"
               >
-                Upgrade to Pro
+                Live Demo
               </v-btn>
             </div>
           </div>

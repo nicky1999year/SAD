@@ -12,12 +12,10 @@
                 Feature 1
               </v-chip>
               <h2 class="section-title font-weight-medium">
-                Awesome with Extra Ordinary Flexibility
+                Launch your entire website RIGHT NOW with ZERO TECH KNOWLEDGE
               </h2>
               <p>
-                You can relay on our amazing features list and also our customer
-                services will be great experience for you without doubt and in
-                no-time
+               We create for you the best landing page that conveys an idea to the audience and allows you to collect data about the idea. 
               </p>
             </div>
           </v-col>
@@ -36,12 +34,9 @@
                 <div class="icon-round bg-light-info">
                   <i class="mdi mdi-star"></i>
                 </div>
-                <h5 class="font-weight-medium font-18">Instant Solutions</h5>
+                <h5 class="font-weight-medium font-18">Fully Guided Website Copywriting</h5>
                 <p class="mt-10 mb-8">
-                  You can relay on our amazing features list and also our
-                  customer services will be great experience. Lorem ipsum dolor
-                  sit amet, consectetur adipiscing elit. Praesent tristique
-                  pellentesque ipsum.
+                  A copywriter would take approximately 8 hours or more to write a full website copy with adequate planning and multiple rewrites. Avoid the headache by following our guided process and spend the time focusing on your business instead.
                 </p>
                 <a
                   href="#"
@@ -64,12 +59,9 @@
                 <div class="icon-round bg-light-info">
                   <i class="mdi mdi-check-circle"></i>
                 </div>
-                <h5 class="font-weight-medium font-18">Powerful Techniques</h5>
+                <h5 class="font-weight-medium font-18">Automate Your Website Design</h5>
                 <p class="mt-10 mb-8">
-                  You can relay on our amazing features list and also our
-                  customer services will be great experience. Lorem ipsum dolor
-                  sit amet, consectetur adipiscing elit. Praesent tristique
-                  pellentesque ipsum.
+                  For start, you could hire a designer and spend hours and money on multiple website variations. Or you could buy a template and spend a monumental effort on editing and fine-tuning. But why do all of that? Sitegen creates beautiful designs for your content at a fraction of the cost and time.
                 </p>
                 <a
                   href="#"

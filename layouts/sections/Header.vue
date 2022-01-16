@@ -39,7 +39,7 @@
                 to="/coming-soon"
                 elevation="0"
               >
-                Subscribe Now
+                Sign Up
               </v-btn>
             </li>
           </ul>
