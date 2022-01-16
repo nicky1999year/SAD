@@ -1,51 +1,106 @@
 <template>
   <div>
-    <div class="formbanner1-component mini-spacer bg-extra-light">
+    <div class="mini-spacer">
       <v-container>
         <!-- -----------------------------------------------
-            Start Form Banner1
+            Start Contact Form
         ----------------------------------------------- -->
         <v-row justify="center">
-          <v-col cols="12" md="7" lg="5" class="d-flex align-center">
-            <div class="text-center text-md-left">
-              <h2 class="formbanner1-title font-weight-bold">
-                Give your Business Real boost Now!
-              </h2>
-              <p class="mt-16 pt-4">
-                To accomplish great things, we must not only act, but also
-                dream; not only plan, but also believe.
-              </p>
-              <div class="mt-16 pt-2">
-                <form>
-                  <div class="stylish-input-group">
+          <v-col cols="12" sm="10" md="12" lg="8">
+            <div>
+              <h4 class="font-weight-medium contact-title mt-0">
+                Quick Contact
+              </h4>
+              <form>
+                <v-row class="mt-15">
+                  <v-col cols="12" md="6" class="py-0">
                     <v-text-field
-                      placeholder="Enter Email Address"
-                      solo
+                      label="Name"
+                      outlined
+                      v-model="name"
+                      placeholder="Name"
                     ></v-text-field>
-                    <v-btn
-                      rounded
-                      color="primary"
-                      elevation="0"
-                      class="text-uppercase font-weight-medium"
-                      dark
-                    >
-                      Get Started
-                    </v-btn>
-                  </div>
-                </form>
-              </div>
+                  </v-col>
+                  <v-col cols="12" md="6" class="py-0">
+                    <v-text-field
+                      label="Email"
+                      outlined
+                      type="email"
+                      v-model="email"
+                      placeholder="Email"
+                    ></v-text-field>
+                  </v-col>
+                  <v-col cols="12" class="py-0">
+                    <v-textarea
+                      name="message"
+                      outlined
+                      label="Message"
+                      rows="3"
+                    ></v-textarea>
+                  </v-col>
+                </v-row>
+                <v-btn
+                  nuxt
+                  to="/"
+                  class="btn-custom-md btn-danger-gradient mt-12"
+                  outlined
+                  color="white"
+                  elevation="0"
+                >
+                  Submit
+                </v-btn>
+              </form>
             </div>
           </v-col>
-          <v-col cols="12" md="5" lg="6" class="ml-auto">
-            <v-img
-              :src="require('@/assets/images/form-banner/form-banner1.png')"
-              alt="banner"
-            />
+          <v-col cols="12" sm="10" md="12" lg="4">
+                        <div>
+              <h4 class="font-weight-medium contact-title mt-0">
+                Quick Contact
+              </h4>
+              <form>
+                <v-row class="mt-15">
+                  <v-col cols="12" md="6" class="py-0">
+                    <v-text-field
+                      label="Name"
+                      outlined
+                      v-model="name"
+                      placeholder="Name"
+                    ></v-text-field>
+                  </v-col>
+                  <v-col cols="12" md="6" class="py-0">
+                    <v-text-field
+                      label="Email"
+                      outlined
+                      type="email"
+                      v-model="email"
+                      placeholder="Email"
+                    ></v-text-field>
+                  </v-col>
+                  <v-col cols="12" class="py-0">
+                    <v-textarea
+                      name="message"
+                      outlined
+                      label="Message"
+                      rows="3"
+                    ></v-textarea>
+                  </v-col>
+                </v-row>
+                <v-btn
+                  nuxt
+                  to="/"
+                  class="btn-custom-md btn-danger-gradient mt-12"
+                  outlined
+                  color="white"
+                  elevation="0"
+                >
+                  Submit
+                </v-btn>
+              </form>
+            </div>
           </v-col>
         </v-row>
-
         <!-- -----------------------------------------------
-            End Form Banner1
+            End Contact Form
         ----------------------------------------------- -->
       </v-container>
     </div>
@@ -53,9 +108,12 @@
 </template>
 <script>
 export default {
-  name: "FormBanner1",
+  name: "Contact",
   data() {
-    return {};
+    return {
+      name: "",
+      email: "",
+    };
   },
   methods: {},
 };

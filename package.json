@@ -11,6 +11,8 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@astrajs/collections": "^0.3.2",
+    "@nestjs/config": "^1.1.6",
     "core-js": "^3.15.1",
     "nuxt": "^2.15.8",
     "vuetify": "^2.5.5"

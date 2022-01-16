@@ -1,5 +1,5 @@
 <template>
-  <div class="banner-wrapper" style="background-color: #e86c6c">
+  <div class="banner-wrapper" style="background-color: #e86c6cSign Up For Free Today">
     <v-container>
       <!-- -----------------------------------------------
             Start Banner
@@ -14,11 +14,10 @@
         >
           <div class="text-center">
             <h1 class="banner-title font-weight-bold white--text">
-              Pro Version coming soon
+              Sign Up For Free Today
             </h1>
             <h4 class="banner-subtitle mr-0 white--text font-weight-regular">
-              Pro version will coming soon, with tons of ready to use features.
-              stay tuned.
+              14-day free trial | No credit card needed
             </h4>
           </div>
         </v-col>

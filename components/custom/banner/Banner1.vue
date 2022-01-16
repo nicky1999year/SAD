@@ -9,7 +9,7 @@
           <v-col cols="12" md="7" lg="6" class="d-flex align-center">
             <div class="text-center text-md-left">
               <v-chip small class="bg-dark" text-color="white">
-                Creating Brands
+                Site Generating
               </v-chip>
               <h2
                 class="
@@ -19,19 +19,17 @@
                   white--text
                 "
               >
-                ONE BILLON PEOPLE USE FACEBOOK
+                Maximize user engagement instantly
               </h2>
               <p class="white--text op-8 font-weight-regular">
-                Pellentesque vehicula eros a dui pretium ornare. Phasellus
-                congue vel quam nec luctus.In accumsan at eros in dignissim.
-                Cras sodales nisi nonn accumsan.
+                Our Contact Us form allows people to contact you through the platform and you can view all the responses through your custom dashbaord
               </p>
               <div class="mt-16 pt-2">
                 <v-btn
                   nuxt
                   large
                   rounded
-                  to="/basic-components"
+                  to="/about-us"
                   class="btn-custom-md"
                   depressed
                   color="white"

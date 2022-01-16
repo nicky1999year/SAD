@@ -2,7 +2,6 @@
   <div>
     <BannerTwo />
     <AllComponents />
-    <ComingSoon />
   </div>
 </template>
 
@@ -10,7 +9,7 @@
 export default {
   head() {
     return {
-      title: "About Us | Solutech",
+      title: "Find Out More About Our Company | About Us",
       meta: [
         {
           hid: "description",
@@ -26,7 +25,6 @@ export default {
   },
   components: {
     BannerTwo: () => import("@/components/shared/lp-banner/BannerTwo"),
-    ComingSoon: () => import("@/components/shared/coming-soon/ComingSoon"),
     AllComponents: () => import("@/components/basic/AllComponents"),
   },
 };

@@ -20,7 +20,7 @@
                 nuxt
                 large
                 target="_blank"
-                href="https://www.wrappixel.com/templates/nextkit-nuxtjs-free-uikit/"
+                to="/signup"
                 elevation="0"
               >
                 Get Started
@@ -28,7 +28,7 @@
               <v-btn
                 nuxt
                 large
-                to="/coming-soon"
+                to="/landing-page"
                 class="btn-custom-md"
                 outlined
                 color="white"

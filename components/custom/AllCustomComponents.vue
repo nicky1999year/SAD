@@ -28,7 +28,6 @@
     <!-- -----------------------------------------------
     Testimonial
     ----------------------------------------------- -->
-    <TestimonialText />
     <Testimonial />
     <!-- -----------------------------------------------
     ./ Testimonial
@@ -36,7 +35,6 @@
     <!-- -----------------------------------------------
     C2a
     ----------------------------------------------- -->
-    <C2aText />
     <C2a2 />
     <!-- -----------------------------------------------
     ./ C2a
@@ -62,9 +60,6 @@ export default {
   components: {
     FeatureText: () => import("@/components/custom/features/FeatureText"),
     ContactText: () => import("@/components/custom/contact/ContactText"),
-    TestimonialText: () =>
-      import("@/components/custom/testimonial/TestimonialText"),
-    C2aText: () => import("@/components/custom/c2a/C2aText"),
     FormBannerText: () =>
       import("@/components/custom/form-banner/FormBannerText"),
     Banner1: () => import("@/components/custom/banner/Banner1"),

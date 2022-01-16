@@ -8,7 +8,7 @@
 export default {
   head() {
     return {
-      title: "Sign Up | Solutech",
+      title: "Sign Up For Free Todaay | Sign Up",
       meta: [
         {
           hid: "description",

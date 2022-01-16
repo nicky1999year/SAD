@@ -9,7 +9,7 @@
 export default {
   head() {
     return {
-      title: "Pricing | Solutech",
+      title: "Get A Quote From Us Now | Pricing",
       meta: [
         {
           hid: "description",
