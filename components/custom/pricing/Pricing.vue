@@ -11,7 +11,7 @@
               <h2 class="section-title font-weight-medium">
                 Simple Pricing to make your Work Effective
               </h2>
-              <p>We offer 100% satisafaction and Money back Guarantee</p>
+              <p>We offer 100% satisfaction and Money back Guarantee</p>
             </div>
           </v-col>
         </v-row>
@@ -32,8 +32,8 @@
               <v-card-text class="text-center pa-15">
                 <h5 class="font-weight-regular font-18">Regular Plan</h5>
                 <div>
-                  <sup>$</sup>
-                  <span class="price-text">39</span>
+                  <sup>RM</sup>
+                  <span class="price-text">99</span>
                   <h6 class="font-14 text-uppercase font-weight-regular">
                     Yearly
                   </h6>
@@ -63,8 +63,8 @@
               <v-card-text class="text-center pa-15">
                 <h5 class="font-weight-regular font-18">Master Plan</h5>
                 <div>
-                  <sup>$</sup>
-                  <span class="price-text">49</span>
+                  <sup>RM</sup>
+                  <span class="price-text">129</span>
                   <h6 class="font-14 text-uppercase font-weight-regular">
                     Yearly
                   </h6>
@@ -94,8 +94,8 @@
               <v-card-text class="text-center pa-15">
                 <h5 class="font-weight-regular font-18">Premium Plan</h5>
                 <div>
-                  <sup>$</sup>
-                  <span class="price-text">69</span>
+                  <sup>RM</sup>
+                  <span class="price-text">162</span>
                   <h6 class="font-14 text-uppercase font-weight-regular">
                     Yearly
                   </h6>

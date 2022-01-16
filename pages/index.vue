@@ -14,13 +14,6 @@
     <!-- -----------------------------------------------
     ./ All Components
     ----------------------------------------------- -->
-    <!-- -----------------------------------------------
-    Coming Soon
-    ----------------------------------------------- -->
-    <ComingSoon />
-    <!-- -----------------------------------------------
-    ./ Coming Soon
-    ----------------------------------------------- -->
   </div>
 </template>
 
@@ -44,7 +37,6 @@ export default {
   },
   components: {
     Banner: () => import("@/components/shared/lp-banner/Banner"),
-    ComingSoon: () => import("@/components/shared/coming-soon/ComingSoon"),
     AllCustomComponents: () =>
       import("@/components/custom/AllCustomComponents"),
   },

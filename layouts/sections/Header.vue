@@ -23,10 +23,10 @@
               <n-link class="nav-link" nuxt to="/"> Home </n-link>
             </li>
             <li class="nav-item" text>
-              <n-link class="nav-link" nuxt to="/topics"> Pricing </n-link>
+              <n-link class="nav-link" nuxt to="/pricing"> Pricing </n-link>
             </li>
             <li class="nav-item" text>
-              <n-link class="nav-link" nuxt to="/basic-components">
+              <n-link class="nav-link" nuxt to="/about-us">
                 About Us
               </n-link>
             </li>
@@ -36,7 +36,7 @@
                 color="white"
                 nuxt
                 target="_blank"
-                to="/coming-soon"
+                to="/signup"
                 elevation="0"
               >
                 Sign Up

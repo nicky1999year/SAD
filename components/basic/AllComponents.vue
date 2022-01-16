@@ -1,7 +1,6 @@
 <template>
   <div>
     <UiButton />
-    <UiMenu />
     <UiChip />
     <UiPagination />
     <UiAlert />
@@ -23,7 +22,6 @@ export default {
   components: {
     UiButton: () => import("@/components/basic/UiButton"),
     UiPagination: () => import("@/components/basic/UiPagination"),
-    UiMenu: () => import("@/components/basic/UiMenu"),
     UiChip: () => import("@/components/basic/UiChip"),
     UiAlert: () => import("@/components/basic/UiAlert"),
     UiCard: () => import("@/components/basic/UiCard"),

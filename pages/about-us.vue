@@ -10,7 +10,7 @@
 export default {
   head() {
     return {
-      title: "Basic Components",
+      title: "About Us | Solutech",
       meta: [
         {
           hid: "description",

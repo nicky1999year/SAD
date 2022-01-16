@@ -6,12 +6,17 @@
 
 <script>
 export default {
-  layout: "coming-soon",
-  props: {
-    error: {
-      type: Object,
-      default: null
-    }
+  head() {
+    return {
+      title: "Sign Up | Solutech",
+      meta: [
+        {
+          hid: "description",
+          name: "Next Ui Kit",
+          content: "Next Ui Kit is the best way",
+        },
+      ],
+    };
   },
   components: {
     Banner: () => import("@/components/shared/lp-banner/BannerComingSoon")

@@ -55,12 +55,12 @@
           <v-col cols="12" sm="10" md="12" lg="4">
             <div class="primary contact-detail-card">
               <h2 class="detail-title font-weight-medium white--text">
-                Wrappixel Headquarters
+                Solutech.com
               </h2>
-              <p class="mt-15 op-8 mb-0 white--text">251 546 9442</p>
-              <p class="op-8 mb-8 white--text">info@wrappixel.com</p>
-              <p class="mt-15 op-8 mb-0 white--text">601 Sherwood Ave.</p>
-              <p class="op-8 mb-0 white--text">San Bernandino, CA 92404</p>
+              <p class="mt-15 op-8 mb-0 white--text">087-503 000</p>
+              <p class="op-8 mb-8 white--text">info@solutech.com</p>
+              <p class="mt-15 op-8 mb-0 white--text">Menara UMS Kampus Antarabangsa Labuan,</p>
+              <p class="op-8 mb-0 white--text">87000 Labuan, Wilayah Persekutuan Labuan</p>
             </div>
           </v-col>
         </v-row>

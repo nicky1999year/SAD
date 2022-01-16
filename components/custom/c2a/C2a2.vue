@@ -9,7 +9,7 @@
           <v-col cols="12" md="10" lg="7">
             <div class="text-center">
               <h2 class="c2a2-title white--text font-weight-medium">
-                Grab our IOS or Android App from Stores
+                 Grow your business and with a bespoke, simple and effective website. So why wait?
               </h2>
               <p class="white--text op-8 mb-10">
                 You can relay on our amazing features list and also our customer

@@ -7,12 +7,17 @@
 
 <script>
 export default {
-  layout: "coming-soon",
-  props: {
-    error: {
-      type: Object,
-      default: null
-    }
+  head() {
+    return {
+      title: "Pricing | Solutech",
+      meta: [
+        {
+          hid: "description",
+          name: "Next Ui Kit",
+          content: "Next Ui Kit is the best way",
+        },
+      ],
+    };
   },
   components: {
     BannerThree: () => import("@/components/shared/lp-banner/BannerThree"),

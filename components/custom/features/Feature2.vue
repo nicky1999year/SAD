@@ -12,7 +12,7 @@
                 Feature 2
               </v-chip>
               <h2 class="section-title font-weight-medium">
-                Awesome with Extra Ordinary Flexibility
+                How It Works
               </h2>
               <p>
                 You can relay on our amazing features list and also our customer
@@ -56,16 +56,6 @@
                       </v-row>
                     </div>
                   </v-card-text>
-                </v-col>
-                <v-col cols="12" md="4" class="py-0">
-                  <v-btn
-                    block
-                    depressed
-                    color="info"
-                    class="linking feature2-action-btn"
-                  >
-                    Let's Talk <i class="mdi mdi-arrow-right"></i>
-                  </v-btn>
                 </v-col>
               </v-row>
             </v-card>

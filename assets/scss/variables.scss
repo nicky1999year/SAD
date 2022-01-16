@@ -9,7 +9,7 @@
 // Global Settings
 // ==================================== //
 $font-size-root: 16px;
-$body-font-family: "DM Sans", sans-serif !default;
+$body-font-family: "garamond", serif !default;
 
 // ==================================== //
 // Button Settings
@@ -56,7 +56,7 @@ $border-radius-root: 8px !default;
 // ==================================== //
 // Headings
 // ==================================== //
-$heading-font-family: "DM Sans", sans-serif !default;
+$heading-font-family: "garamond", sans-serif !default;
 
 $headings: () !default;
 $headings: map-deep-merge(

@@ -14,7 +14,7 @@
         >
           <div class="text-center">
             <h1 class="banner-title font-weight-bold white--text">
-              NuxtJs UI Kit Free
+              About Us
             </h1>
             <h4 class="banner-subtitle mr-0 white--text font-weight-regular">
               Built with Nuxt Js and based on Vuetify js Free UI Kit
