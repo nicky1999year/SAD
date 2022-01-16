@@ -20,11 +20,14 @@
         >
           <ul class="navbar-nav">
             <li class="nav-item" text>
-              <n-link class="nav-link" nuxt to="/"> Custom Components </n-link>
+              <n-link class="nav-link" nuxt to="/"> Home </n-link>
+            </li>
+            <li class="nav-item" text>
+              <n-link class="nav-link" nuxt to="/topics"> Pricing </n-link>
             </li>
             <li class="nav-item" text>
               <n-link class="nav-link" nuxt to="/basic-components">
-                Basic Components
+                About Us
               </n-link>
             </li>
             <li class="nav-item">
@@ -33,10 +36,10 @@
                 color="white"
                 nuxt
                 target="_blank"
-                href="https://www.wrappixel.com/templates/nextkit-nuxtjs-free-uikit/"
+                to="/coming-soon"
                 elevation="0"
               >
-                Download Free
+                Subscribe Now
               </v-btn>
             </li>
           </ul>

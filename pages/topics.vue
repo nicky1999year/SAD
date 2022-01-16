@@ -1,18 +1,34 @@
 <template>
-  <div></div>
+  <v-main>
+    <BannerThree />
+    <Pricing />
+  </v-main>
 </template>
 
 <script>
-import { mapGetters } from "vuex";
 export default {
-  name: "topics",
-  data() {
-    return {};
+  layout: "coming-soon",
+  props: {
+    error: {
+      type: Object,
+      default: null
+    }
   },
-
   components: {
-    // Categorybanner: () =>
-    //   import("@/components/sections/categorybanner/Categorybanner"),
+    BannerThree: () => import("@/components/shared/lp-banner/BannerThree"),
+    Pricing: () => import("@/components/custom/pricing/Pricing")
   },
+  data() {
+    return {
+      pageNotFound: "404 Not Found",
+      otherError: "An error occurred"
+    };
+  }
 };
 </script>
+
+<style scoped>
+h1 {
+  font-size: 20px;
+}
+</style>
