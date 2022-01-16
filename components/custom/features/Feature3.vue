@@ -24,8 +24,8 @@
                     The New way of Making Your Website in mins
                   </h3>
                   <p>
-                    You can relay on our amazing features list and also our
-                    customer services will be great experience. You will love it
+                    You can rely on our amazing features list and also our
+                    customer services will be a great experience. You will love it
                     for sure.
                   </p>
                   <v-btn

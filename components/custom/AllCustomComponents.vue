@@ -13,21 +13,12 @@
     <!-- -----------------------------------------------
     Banner
     ----------------------------------------------- -->
-    <BannerText />
     <Banner1 />
     <Banner2 />
     <!-- -----------------------------------------------
     ./ Banner
     ----------------------------------------------- -->
-    <!-- -----------------------------------------------
-    Form Banner
-    ----------------------------------------------- -->
-    <FormBannerText />
-    <FormBanner1 />
-    <!-- -----------------------------------------------
-    ./ Form Banner
-    ----------------------------------------------- -->
-
+  
     <!-- -----------------------------------------------
     Portfolio
     ----------------------------------------------- -->
@@ -80,7 +71,6 @@ export default {
     return {};
   },
   components: {
-    BannerText: () => import("@/components/custom/banner/BannerText"),
     FeatureText: () => import("@/components/custom/features/FeatureText"),
     ContactText: () => import("@/components/custom/contact/ContactText"),
     TestimonialText: () =>
@@ -94,7 +84,6 @@ export default {
     Feature1: () => import("@/components/custom/features/Feature1"),
     Feature2: () => import("@/components/custom/features/Feature2"),
     Feature3: () => import("@/components/custom/features/Feature3"),
-    FormBanner1: () => import("@/components/custom/form-banner/FormBanner1"),
     Portfolio: () => import("@/components/custom/portfolio/Portfolio"),
     Team: () => import("@/components/custom/team/Team"),
     Testimonial: () => import("@/components/custom/testimonial/Testimonial"),
