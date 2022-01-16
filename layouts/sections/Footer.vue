@@ -10,15 +10,15 @@
       ----------------------------------------------- -->
         <v-col cols="12" sm="12" md="12" lg="3" class="px-xs-0">
           <h4 class="font-weight-regular font-18">Address</h4>
-          <p class="mt-10">71 Amsteroum Avenue Cronish Night, NY 35098</p>
+          <p class="mt-10">Menara UMS Kampus Antarabangsa Labuan, 87000 Labuan, Wilayah Persekutuan Labuan</p>
         </v-col>
         <!-- -----------------------------------------------
         Second Column
       ----------------------------------------------- -->
         <v-col cols="12" sm="12" md="12" lg="3" class="px-xs-0">
           <h4 class="font-weight-regular font-18">Phone</h4>
-          <p class="mt-10 mb-0">Reception : +205 123 4567</p>
-          <p>Office : +207 235 7890</p>
+          <p class="mt-10 mb-0">Reception : 087-503 000</p>
+          <p>Office : 087-503 000</p>
         </v-col>
         <!-- -----------------------------------------------
         Third Column
@@ -26,12 +26,12 @@
         <v-col cols="12" sm="12" md="12" lg="3" class="px-xs-0">
           <h4 class="font-weight-regular font-18">Email</h4>
           <p class="mt-10 mb-0">
-            Office : <a class="dark-link" href="/">info@wrappixel.com</a>
+            Office : <a class="dark-link" href="/">info@solutech.com</a>
           </p>
           <p>
             Site :
             <a class="dark-link" href="https://www.wrappixel.com/"
-              >wrappixel.com</a
+              >solutech.com</a
             >
           </p>
         </v-col>
@@ -64,7 +64,7 @@
         <div class="d-block d-md-flex align-center">
           <p>
             All Rights Reserved by
-            <a href="https://www.wrappixel.com/" class="link">wrappixel.com</a>
+            <a href="https://www.solutech.com/" class="link">solutech.com</a>
           </p>
           <div class="ml-auto">
             <div class="d-flex align-center">
