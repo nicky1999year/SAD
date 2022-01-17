@@ -1,14 +1,8 @@
 <template>
   <div>
-    <UiButton />
-    <UiChip />
-    <UiPagination />
-    <UiAlert />
-    <UiCard />
-    <UiForm />
-    <UiTable />
-    <UiTooltip />
-    <UiTypography />
+    <AboutParagraph />
+    <Vision />
+    <Mission />
   </div>
 </template>
 
@@ -20,15 +14,9 @@ export default {
     return {};
   },
   components: {
-    UiButton: () => import("@/components/basic/UiButton"),
-    UiPagination: () => import("@/components/basic/UiPagination"),
-    UiChip: () => import("@/components/basic/UiChip"),
-    UiAlert: () => import("@/components/basic/UiAlert"),
-    UiCard: () => import("@/components/basic/UiCard"),
-    UiForm: () => import("@/components/basic/UiForm"),
-    UiTable: () => import("@/components/basic/UiTable"),
-    UiTooltip: () => import("@/components/basic/UiTooltip"),
-    UiTypography: () => import("@/components/basic/UiTypography"),
+    AboutParagraph: () => import("@/components/basic/aboutParagraph"),
+    Vision: () => import("@/components/basic/Vision"),
+    Mission: () => import("@/components/basic/Mission"),
   },
 };
 </script>

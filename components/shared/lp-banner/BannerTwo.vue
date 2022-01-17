@@ -9,7 +9,7 @@
           cols="12"
           sm="10"
           md="6"
-          lg="4"
+          lg="6"
           class="d-flex align-center justify-center"
         >
           <div class="text-center">
@@ -17,13 +17,8 @@
               About Us
             </h1>
             <h4 class="banner-subtitle mr-0 white--text font-weight-regular">
-              Built with Nuxt Js and based on Vuetify js Free UI Kit
+              “Talent wins games, but teamwork and intelligence win championships.”
             </h4>
-            <div class="mt-16 pt-2">
-              <v-btn nuxt large to="/coming-soon" color="success" elevation="0">
-                Upgrade to Pro
-              </v-btn>
-            </div>
           </div>
         </v-col>
       </v-row>

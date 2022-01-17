@@ -15,9 +15,7 @@
                 How It Works
               </h2>
               <p>
-                You can relay on our amazing features list and also our customer
-                services will be great experience for you without doubt and in
-                no-time
+                It’s as easy as answering a few questions
               </p>
             </div>
           </v-col>
@@ -50,7 +48,7 @@
                           class="px-md-0 d-flex align-center"
                         >
                           <h4 class="font-weight-medium font-18">
-                            Make your website in no-time with us.
+                            Solutech automatically deploys your landing page in minutes so that you can focus on creating your content
                           </h4>
                         </v-col>
                       </v-row>
@@ -80,22 +78,12 @@
                           class="px-md-0 d-flex align-center"
                         >
                           <h4 class="font-weight-medium font-18">
-                            Make your website in no-time with us.
+                            Our super cool widget builder will assist you in writing the best copy through a step-by-step guided process.
                           </h4>
                         </v-col>
                       </v-row>
                     </div>
                   </v-card-text>
-                </v-col>
-                <v-col cols="12" md="4" class="py-0">
-                  <v-btn
-                    block
-                    depressed
-                    color="info"
-                    class="linking feature2-action-btn"
-                  >
-                    Let's Talk <i class="mdi mdi-arrow-right"></i>
-                  </v-btn>
                 </v-col>
               </v-row>
             </v-card>
@@ -120,22 +108,12 @@
                           class="px-md-0 d-flex align-center"
                         >
                           <h4 class="font-weight-medium font-18">
-                            Make your website in no-time with us.
+                            Provides tips and tricks to create content through a guided platform
                           </h4>
                         </v-col>
                       </v-row>
                     </div>
                   </v-card-text>
-                </v-col>
-                <v-col cols="12" md="4" class="py-0">
-                  <v-btn
-                    block
-                    depressed
-                    color="info"
-                    class="linking feature2-action-btn"
-                  >
-                    Let's Talk <i class="mdi mdi-arrow-right"></i>
-                  </v-btn>
                 </v-col>
               </v-row>
             </v-card>
@@ -160,22 +138,12 @@
                           class="px-md-0 d-flex align-center"
                         >
                           <h4 class="font-weight-medium font-18">
-                            Make your website in no-time with us.
+                            Allows individuals to become better communicators. 
                           </h4>
                         </v-col>
                       </v-row>
                     </div>
                   </v-card-text>
-                </v-col>
-                <v-col cols="12" md="4" class="py-0">
-                  <v-btn
-                    block
-                    depressed
-                    color="info"
-                    class="linking feature2-action-btn"
-                  >
-                    Let's Talk <i class="mdi mdi-arrow-right"></i>
-                  </v-btn>
                 </v-col>
               </v-row>
             </v-card>
