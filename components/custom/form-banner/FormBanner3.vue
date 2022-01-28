@@ -9,42 +9,55 @@
           <v-col cols="12" sm="10" md="12" lg="8">
             <div>
               <h4 class="font-weight-medium contact-title mt-0">
-                Add Pages.
+                Add Pages
               </h4>
               <form>
                 <v-row class="mt-15">
                   <v-col cols="12" class="py-0">
+                    <span style="font-weight:normal; font-size:18px; color:gray;">
                       <input type="checkbox" id="page" value="Homepage" v-model="checkedNames">
-                      <label for="Homepage">Home Page</label><br>
+                      <label for="Homepage">&nbsp;&nbsp;Home Page</label><br>
 
                       <input type="checkbox" id="page" value="About us" v-model="checkedNames">
-                      <label for="About us">About Us</label><br>
+                      <label for="About us">&nbsp;&nbsp;About Us</label><br>
 
                       <input type="checkbox" id="page" value="Contact Us" v-model="checkedNames">
-                      <label for="Contact Us">Contact Us</label><br>
+                      <label for="Contact Us">&nbsp;&nbsp;Contact Us</label><br>
 
                       <input type="checkbox" id="page" value="Register Login" v-model="checkedNames">
-                      <label for="Register login">Register / Login Page</label><br>
+                      <label for="Register login">&nbsp;&nbsp;Register / Login Page</label><br>
 
                       <input type="checkbox" id="page" value="Menu" v-model="checkedNames">
-                      <label for="Menu">Menu</label><br>
+                      <label for="Menu">&nbsp;&nbsp;Menu</label><br>
 
                       <input type="checkbox" id="page" value="Reservation" v-model="checkedNames">
-                      <label for="Reservation">Table Reservation Page</label><br>
+                      <label for="Reservation">&nbsp;&nbsp;Table Reservation Page</label><br>
 
                       <input type="checkbox" id="page" value="Blog" v-model="checkedNames">
-                      <label for="Blog">Blog Page</label><br>
+                      <label for="Blog">&nbsp;&nbsp;Blog Page</label><br>
 
                       <input type="checkbox" id="page" value="Gallery" v-model="checkedNames">
-                      <label for="Gallery">Gallery Page</label><br>
+                      <label for="Gallery">&nbsp;&nbsp;Gallery Page</label><br>
 
                       <input type="checkbox" id="page" value="Feedback" v-model="checkedNames">
-                      <label for="Feedback">Feedback Page</label><br>
+                      <label for="Feedback">&nbsp;&nbsp;Feedback Page</label><br>
 
                       <input type="checkbox" id="page" value="custom" v-model="checkedNames">
-                      <label for="custom">Black Page (You can custom the page yourself.)</label><br>
+                      <label for="custom">&nbsp;&nbsp;Black Page (You can custom the page yourself.)</label><br><br>
+                    </span>
                     </v-col>
                 </v-row>
+                <v-btn
+                  nuxt
+                  to="/landing-page1"
+                  class="btn-custom-md btn-danger-gradient mt-12"
+                  outlined
+                  color="white"
+                  elevation="0"
+                >
+                  Back
+                </v-btn>
+                
                 <v-btn
                   nuxt
                   to="/landing-page3"
