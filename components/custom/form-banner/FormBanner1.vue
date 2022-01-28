@@ -58,7 +58,7 @@
                 </v-row>
                 <v-btn
                   nuxt
-                  to="/"
+                  to="/landing-page1"
                   class="btn-custom-md btn-danger-gradient mt-12"
                   outlined
                   color="white"
