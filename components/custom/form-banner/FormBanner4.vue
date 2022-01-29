@@ -45,11 +45,11 @@
                 </v-btn>
                 
                 <v-btn
-                  nuxt
-                  to="/"
+                  color="error"
                   class="btn-custom-md btn-danger-gradient mt-12"
-                  outlined
-                  color="white"
+                  nuxt
+                  target="_blank"
+                  to="/newWebsite"
                   elevation="0"
                 >
                   Submit
